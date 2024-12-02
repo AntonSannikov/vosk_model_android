@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.zebka.vosk_model_android_publisher"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.zebka.vosk_model_android_publisher"
